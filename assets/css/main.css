@@ -1,0 +1,12 @@
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+	font-family: 'Raleway', sans-serif;
+}
+
+p, ul {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.half-img {
+	height: 140px;
+	margin: 10px 10px 30px;
+}
